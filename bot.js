@@ -16,9 +16,9 @@ const crypto  = require("crypto");
 // KONFIGURASI — WAJIB DIISI
 // ============================================================
 const CONFIG = {
-  BOT_TOKEN        : "ISI_TOKEN_BOT_DISCORD_KAMU",
-  GUILD_ID         : "1435839623979991052",
-  VERIFY_CHANNEL_ID: "1470469592638820568",  // Channel tempat !verify bisa dipakai
+  BOT_TOKEN        : "CPOqqp03jkRQGWnW3ffeMNCf4hGLmmJUYWObZ0pLaj1nhywJNKaneNpBXwcz8kccN3aK",
+  GUILD_ID         : "1478650075528826921",
+  VERIFY_CHANNEL_ID: "1478650907364429956",  // Channel tempat !verify bisa dipakai
   PORT             : 3000,
   CODE_EXPIRE_MIN  : 10,
 };
