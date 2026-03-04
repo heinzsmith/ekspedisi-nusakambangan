@@ -16,7 +16,7 @@ const crypto  = require("crypto");
 // KONFIGURASI — WAJIB DIISI
 // ============================================================
 const CONFIG = {
-  BOT_TOKEN        : "MTQ3ODY1NTU4MTgwMjk5MTY0Ng.GrTyYQ.IrzDsOBicqVVvnd_yx-FJ42GIs2i52jycEyvcg",
+  BOT_TOKEN        : "MTQ3ODY1NTU4MTgwMjk5MTY0Ng.GarbK-.PJtbXeirmQaBxcXWiiJsBceVqrMYx0UvRqW_Lk",
   GUILD_ID         : "1435839623979991052",
   VERIFY_CHANNEL_ID: "1478650907364429956",  // Channel tempat !verify bisa dipakai
   PORT             : 3000,
